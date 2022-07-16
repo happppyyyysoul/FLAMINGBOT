@@ -1,0 +1,4 @@
+git clone https://github.com/FLAMING-AI/FLAMINGBOT Flaming
+cd Flaming
+pip3 install -U -r requirements.txt
+python3 main.py
