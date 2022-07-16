@@ -2,7 +2,7 @@ import time
 
 from pyrogram import filters, Client
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
-from helpers.SQL import DB_AVAILABLE
+
 from helpers.msg_types import Types, get_message_type
 from helpers.parser import mention_markdown, escape_markdown
 from pyrogram.types import Message
